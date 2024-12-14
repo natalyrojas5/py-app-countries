@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv/
+env/
+*.pyd
+*.db
+*.sqlite3
+
+# Streamlit
+.cache/
+*.log
+
+# Archivos específicos de sistema operativo
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Entorno virtual
+.venv/
+env/
+.venv/
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de IDEs (si usas alguno)
+.vscode/
+.idea/
+
+# Archivos de configuración de Jupyter (si los usas)
+.ipynb_checkpoints/
